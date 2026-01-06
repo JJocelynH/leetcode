@@ -4,9 +4,10 @@
 
 标签：动态规划
 
-题目截图
-![alt text](image.png)
+题目截图：
+![](assets/70%20climbing%20stairs/file-20260106114137865.png)
 
 解题心得
+
 
 - f[0] = f[1] = 1

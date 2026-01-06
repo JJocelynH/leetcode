@@ -5,8 +5,7 @@
 标签：动态规划
 
 题目截图:
-![alt text](image-1.png)
-
+![](assets/118%20pascal's%20triangle/file-20260106114050612.png)
 代码：
 
 ```python

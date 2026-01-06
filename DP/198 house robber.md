@@ -5,8 +5,7 @@
 标签：动态规划
 
 题目截图
-![alt text](image-2.png)
-
+![](assets/198%20house%20robber/file-20260106114224556.png)
 代码：
 
 ```python
